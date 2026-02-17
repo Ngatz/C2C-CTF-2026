@@ -8,7 +8,7 @@ Write-ups and scripts used to solve challenges in C2C CTF 2026. Includes technic
 The challenges solved and documented in this repository include:
 
 - **Forensic**  
-  Analysis of files, memory dumps, network traffic, and other digital artifacts.
+  Analysis of logs, files, and other digital artifacts.
 
 - **Misc**  
   Non-standard challenges such as scripting, automation, logic puzzles, and multi-discipline problems.
@@ -20,7 +20,7 @@ The challenges solved and documented in this repository include:
   Static and dynamic analysis of binaries to understand program logic and extract flags.
 
 - **PWN**  
-  Binary exploitation such as buffer overflows, heap exploitation, and memory corruption.
+  Binary exploitation such as code injection.
 
 ---
 
@@ -60,6 +60,20 @@ All techniques, write-ups, and scripts:
 - ❌ Must not be used for illegal or unauthorized activities
 
 Any misuse is the sole responsibility of the user.
+
+---
+
+## 🤖 AI Usage Disclaimer
+
+This repository contains content that was partially drafted and refined with the assistance of artificial intelligence (AI)–based tools.
+
+AI was used to support the flag discovery process, including:
+- Coding assistance
+- Technical analysis
+- Summarization
+- Structuring and refining technical documentation
+
+All generated content, scripts, and analyses have been reviewed, validated, and verified by a human author to ensure accuracy, correctness, and alignment with the challenge context.
 
 ---
 
